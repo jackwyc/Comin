@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913492462507",
+    "firebase_url": "https://baeminpractice.firebaseio.com",
+    "project_id": "baeminpractice",
+    "storage_bucket": "baeminpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913492462507:android:9e32d481dfca17529560ee",
+        "android_client_info": {
+          "package_name": "jwychoi.practice.comin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913492462507-psg2u2jljhfl7cbjvl3220h7l4svsll9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jwychoi.practice.comin",
+            "certificate_hash": "1fff488d61f162ab50585b5b8b79c46b8b0f2c81"
+          }
+        },
+        {
+          "client_id": "913492462507-0folss26uc9eaun8nfqes2oob9cnosd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLDYLskIpSw8nKXF47hIHEW8Tlj1WwTg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913492462507-0folss26uc9eaun8nfqes2oob9cnosd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
